@@ -1,0 +1,16 @@
+body{
+   background-color: #ECB65F;
+}
+h1{
+    color: #bb1d6e;
+    font-size: 60px;
+    text-align: center;
+}
+p{
+    color: #E13F7C;
+    font-size: 40px;
+    text-align: center;
+}
+img{
+    width: 40%;
+    margin-left: 600px;
